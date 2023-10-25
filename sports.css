@@ -1,0 +1,443 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+	text-align: center; 
+	font-size: 80px;
+}
+
+.ul1{
+list-style-type: none;
+margin-left:3%;
+  padding: 0;
+  overflow: hidden;
+  width:94%;
+  background-color: #333;
+}
+
+.li1{
+	float: left;
+}
+
+.a1{
+	display: block;
+	color: white;
+  text-align: center;
+  padding: 19px 21px;
+  background-color: #04AA6D;
+  text-decoration: none; 
+}
+
+.li2{
+	float: left;
+}
+
+.a2{
+	display: block;
+  color: white;
+  text-align: center;
+  padding: 19px 16px;
+  text-decoration: none; 
+}
+
+.li3{
+	float: left;
+}
+
+.a3{
+	display: block;
+  color: white;
+  text-align: center;
+  padding: 19px 16px;
+  text-decoration: none; 
+}
+
+.li4{
+	float: left;
+}
+
+.a4{
+	display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; 
+}
+
+.li5{
+	float: left;
+}
+
+.a5{
+	display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; 
+}
+
+
+
+
+.background{
+	background-color:powderblue;
+}
+
+.div1{
+	width:100%;
+}
+
+.div2{
+	height: 300px; 
+	margin-left:3%;
+}
+
+.div3{
+	width:100%; 
+	margin-left:3%;
+}
+
+.div5{
+	width: 40%; 
+	margin-top:-1.5%; 
+	height: 168px; 
+	float: left; 
+}
+
+.h2-1{
+	color:red;
+	text-align:center;
+}
+
+.section1{
+	border:2px solid #000; 
+	padding:1px;
+}
+
+.h4-1{
+	text-align: center;
+}
+
+.p1{
+	text-align: center;
+}
+
+.div6{
+	margin-left: 54%; 
+	width:40%; 
+	margin-top:3%; 
+	height: 100px;
+}
+
+.h2-2{
+	color:red;
+	text-align:center;
+}
+
+.section2{
+	border:2px solid #000; 
+	padding:1px;
+}
+
+.h4-2{
+	text-align: center;
+}
+
+.p2{
+	text-align: center;
+}
+
+.div7{
+	width:100%;
+	margin-left:3%;
+}
+
+.div8{
+	width: 40%; 
+	margin-top:-1.7%; 
+	height: 100px; 
+	float: left;
+}
+
+.h2-3{
+	color:red;
+	text-align:center;
+}
+
+.section3{
+		border:2px solid #000; 
+		padding:1px;
+}
+
+.h4-3{
+	text-align: center;
+}
+
+.p3{
+	text-align: center;
+}
+
+.div9{
+	margin-left: 54%; 
+	width:40%; 
+	margin-top:4%; 
+	height: 100px;
+}
+
+.h2-4{
+	color:red;
+	text-align:center;
+}
+
+.section4{
+		border:2px solid #000; 
+		padding:1px;
+}
+
+.h4-4{
+	text-align: center;
+}
+
+.p4{
+	text-align: center;
+}
+
+.div17{
+	width:100%;
+	margin-left:7%;
+}
+
+.section5{
+	margin-left: 22%;
+	margin-top:-16%
+}
+
+.section6{
+	margin-left: 44%;
+	margin-top:-16%;
+}
+
+.section7{
+	margin-left: 66%;
+	margin-top:-16%
+}
+
+.div10{
+	width:97%;
+}
+
+.section8{
+	border:2px solid #000; 
+	padding:1px;
+	margin-left:3%;
+}
+
+.h3-1{
+	text-align:Center;
+	color:red;
+}
+
+.p5{
+	text-align:Center;
+	margin-left:4%; 
+	width:90%
+}
+
+.h3-2{
+		margin-left:11%;
+}
+
+.h3-3{
+		margin-left:32%;
+		margin-top:-3.5%;
+}
+
+.h3-4{
+		margin-left:55%;
+		margin-top:-3.5%;
+}
+
+.h3-5{
+		margin-left:75%;
+		margin-top:-3.5%;
+}
+
+
+table,tr,td{
+border:1px solid black;
+  border-collapse: collapse;
+}
+
+
+.div12{
+	margin-left:3%;
+}
+
+.table1{
+	width:30%;
+}
+
+.th1{
+	color:red;
+	width:50%;
+}
+
+.th2{
+	color:red;
+	width:50%;
+}
+
+.tr1{
+	height:60px;
+}
+
+.td3{
+	text-align: center;
+}
+
+.td4{
+	text-align: center;
+}
+
+.tr2{
+	height:60px;
+}
+
+.td5{
+	text-align: center;
+}
+
+.td6{
+	text-align: center;
+}
+
+.tr3{
+	height:60px;
+}
+
+.td7{
+	text-align: center;
+}
+
+.td8{
+	text-align: center;
+}
+
+.div13{
+	margin-top:-17%;
+	margin-left:55%;
+	width:40%;
+	height: 100px;
+}
+
+.h{
+   color:red;
+}
+
+.li4{
+	padding:5px;
+}
+
+.li5{
+	padding:5px;
+}
+
+.li6{
+	padding:5px;
+}
+
+.li7{
+	padding:5px;
+}
+
+.li8{
+	padding:5px;
+}
+
+.div14{
+	width:100%; 
+	margin-left:3%;
+}
+
+.div15{
+	width: 35%; 
+	margin-top:-1.5%; 
+	height: 210px; 
+	float: left;  
+	border:2px solid #000; 
+	padding:1px;
+}
+
+.h3-6{
+	color:red;
+	margin-left:3%;
+	margin-top:3%;
+}
+
+.lable1{
+	margin-left:3%;
+}
+
+.input1{
+	margin-left:27%;
+}
+
+
+.lable2{
+	margin-left:3%;
+}
+
+.input2{
+	margin-left:22%;
+}
+
+
+.lable3{
+	margin-left:3%;
+}
+
+.input3{
+	margin-left:5%;
+}
+
+
+.button{
+	margin-left:45%;
+}
+
+.p6{
+	margin-left:10%;
+}
+
+.div16{
+	margin-left: 54%; 
+	width:40%; 
+	margin-top:3%; 
+	height: 100px;
+}
+
+.h3-6{
+	color:red;
+	text-align: left;
+}
+
+.p7{
+	text-align: left;
+}
+
+.ul2{
+	list-style-type: none;
+	margin-left:3%;
+  padding: 0;
+  overflow: hidden;
+  width:94%;
+  height:7%;
+  background-color: #333;
+}
+
+.li9{
+	color: whitesmoke; 
+	text-align: center;
+	margin-top: 1%;
+}
